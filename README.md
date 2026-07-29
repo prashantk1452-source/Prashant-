@@ -27,13 +27,7 @@ This repository showcases my work across **SQL**, **Python**, **Power BI**, and 
 - Topics: Supervised/Unsupervised, Regression, Classification, Overfitting, Feature Engineering, Model Evaluation  
 - [`Python/Machine_Learning_QA.md`](Python/Machine_Learning_QA.md)
 
-### Project 3: SQL Practice Set (50 Questions)
-- **Database:** PostgreSQL — `sql_practice`
-- **Tables:** `customers` (7043 rows), `products` (8), `orders` (508)
-- **Topics:** SELECT, WHERE, GROUP BY, JOINs, Subqueries, Window Functions
-- [`SQL/SQL_Practice_Set.md`](SQL/SQL_Practice_Set.md)
-
-### Project 4: Python Practice Set (50 Questions)
+### Project 3: Python Practice Set (50 Questions)
 - **Topics:** Variables, Strings, Lists, Dicts, OOP, File Handling, NumPy, Pandas, Data Cleaning
 - [`Python/Python_Practice_Set.md`](Python/Python_Practice_Set.md)
 
@@ -43,10 +37,7 @@ This repository showcases my work across **SQL**, **Python**, **Power BI**, and 
 
 ---
 
-## Resume
-- [`Prashant_Kumar_Resume.docx`](Prashant_Kumar_Resume.docx)
 
----
 
 ## Skills Demonstrated
 
