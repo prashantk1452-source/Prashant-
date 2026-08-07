@@ -31,6 +31,27 @@ This repository showcases my work across **SQL**, **Python**, **Power BI**, and 
 - **Topics:** Variables, Strings, Lists, Dicts, OOP, File Handling, NumPy, Pandas, Data Cleaning
 - [`Python/Python_Practice_Set.md`](Python/Python_Practice_Set.md)
 
+### Project 4: Customer Shopping Behavior Analysis (End-to-End Portfolio Project)
+
+A complete end-to-end data analytics workflow — Python, SQL, and Power BI.
+
+**Python (EDA & Data Prep):**
+- Data loading, cleaning, missing value imputation, feature engineering (age_group, purchase_frequency_days)
+- [`Customer-Shopping-Project/Python/Customer_Shopping_Behavior_Analysis.ipynb`](Customer-Shopping-Project/Python/Customer_Shopping_Behavior_Analysis.ipynb)
+
+**SQL (10 Analysis Queries):**
+- Revenue by gender, customer segmentation (New/Returning/Loyal), top products, subscription impact
+- Uses CTEs, window functions (ROW_NUMBER), subqueries, CASE
+- [`Customer-Shopping-Project/SQL/customer_behavior_sql_queries.sql`](Customer-Shopping-Project/SQL/customer_behavior_sql_queries.sql)
+
+**Power BI Dashboard:**
+- Interactive visuals: gender revenue, category sales, segmentation
+- [`Customer-Shopping-Project/PowerBI/customer_behavior_dashboard.pbix`](Customer-Shopping-Project/PowerBI/customer_behavior_dashboard.pbix)
+
+**Dataset & Reports:**
+- `Customer-Shopping-Project/Data/customer_shopping_behavior.csv` — 3,900 purchases
+- `Customer-Shopping-Project/Docs/` — Report (PDF), Presentation (PPTX), Business Problem
+
 ### Dataset & Docs
 - `data/bookings_sample.csv` — 103,024 ride bookings (exported from PostgreSQL)
 - `docs/OLA-Project-Guide.pdf` — Project reference guide
